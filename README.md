@@ -1,6 +1,6 @@
 # MovieDB-API
-<h2>Simple Api Based Movie Site </h2>
-<h3>Where You can Search Any Movie Can Read About Their Details, Rating, Overview.... </h3>
+<h2>Simple Api Based Html-Css-JavaScript Movie Site </h2>
+<h3>Where You can Search Any Movie, Can Read About Their Details, Rating, Overview.... </h3>
 
 ![Screenshot_20220322_110600](https://user-images.githubusercontent.com/87888901/159459752-47beedc4-b921-4849-8c6e-34b568bdbc59.png)
 
